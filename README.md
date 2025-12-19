@@ -1,4 +1,4 @@
-This is the code used to rotate the 5V motor, under the arduino platform and is also suppose to work alongside a jetson
+This is the code used to rotate the 5V motor, under the arduino platform and is also suppose to communicate with jetson
 
 Based off of this:
 ![0](https://github.com/Narain-Vazquez/Winch/assets/115094155/a7e99bbe-6b89-4680-aa8a-a74f42ebb01b)
